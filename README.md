@@ -22,5 +22,5 @@ docker run -p 80:8080 mywebapp
 
 #### Verify the browser URL
 ```
-http://localhost/docker-tomcat-webapp/
+http://localhost:80/docker-tomcat-webapp/
 ```
